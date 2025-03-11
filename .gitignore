@@ -1,0 +1,8 @@
+env
+__pycache__
+
+secrets.json
+setting.json
+
+test_api.py
+logs
